@@ -1,0 +1,14 @@
+[submodule "packages/app-learning"]
+	path = packages/app-learning
+	url = https://github.com/pvadlakonda/micro-apps-app-learning.git
+	branch = main
+
+[submodule "packages/app-poker-calculator"]
+	path = packages/app-poker-calculator
+	url = https://github.com/pvadlakonda/micro-apps-app-poker-calculator.git
+	branch = main
+
+[submodule "packages/app-kids"]
+	path = packages/app-kids
+	url = https://github.com/pvadlakonda/micro-apps-app-kids.git
+	branch = main
